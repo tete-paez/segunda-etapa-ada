@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(252, 126, 185);
+    /* font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; */
+    font-size: 40px;
+}
+/*ejericio progreso*/
+/* .container {
+    background-color: rgb(210, 30, 186);
+    display: flex;
+    width: 100%;
+} */
+/* .progreso{
+    background-color: rgb(102, 192, 50);
+} */
+/*ejercicio reacciones*/
+/* span {
+    padding: 3px;
+    background-color: grey;
+    border-radius: 20px;
+} */
+/*ejercicio card*/
+/* .card {
+    width: 600%;
+    height: 50%;
+    border-radius: 2%;
+    border-color: hotpink;
+    border: 5px solid;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(245, 182, 214);
+    padding: 10px;
+
+} */
+/*ejercicio animales*/
+/* img {
+    display: none;
+} */
+
+.destacado {
+    color: red;
+    font-weight: bolder;
+}

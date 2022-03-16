@@ -1,0 +1,13 @@
+.guestData{
+    background-color: violet;
+    display: none;
+}
+
+.correcto{
+    background-color: rgb(53, 99, 49);
+    display: none;
+}
+.incorrecto{
+    background-color: rgb(231, 25, 25);
+    display: none;
+}

@@ -1,0 +1,1 @@
+console.log("vieron pull reuqst y bulma, la viste a los pedos x arriba")

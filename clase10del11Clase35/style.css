@@ -1,0 +1,38 @@
+/* // CLASE 35
+--------------------------------------------
+// EJERCICIO 1
+.verde {
+    color: green;
+}
+.rojo {
+    color: red;
+}
+.d-none {
+    display: none;
+}
+
+-------------------------------------------- */
+/* EJERCICIO 3 */
+/* .azul{
+    font-weight: bolder;
+    color: blue;
+}
+.amarillo {
+    font-weight: bolder;
+    color: yellow;
+}
+.naranja {
+    font-weight: bolder;
+    color: orange;
+}
+.rojo {
+    font-weight: bolder;
+    color: red;
+} */
+/* -------------------------------------------- */
+/* EJERCICIO 5 */
+.caja {
+    background-color: red;
+    width: 200px;
+    height: 200px;
+}

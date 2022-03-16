@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="domEventos.css">
+    <title>ejercicio Pilar formulario PILAR</title>
+</head>
+<body>
+    <form id="formulario" class="box-formulario">
+
+        <label >E-mail: </label>
+        <input id="inputEmail" type="text">
+
+        <br>
+        <label >Password*:</label>
+        <input id="inputPassword"type="text" >
+        <br>
+
+        <label >Repeat Password</label>
+        <input id="inputRepeatPassword"type="text" />
+        <br>
+
+        <input type="checkBox" class="checkBox" id="checkBox">
+        <label for="">Acepto terminos y condiciones</label>
+        <br>
+
+        <button type="submit" id="submit" class="boton-enviar">Enviar</button>
+    </form>
+<div class="guestData">
+    <p class="mail"></p>
+    <p class="password"></p>
+    <p class="repeatPassword"></p>
+</div>
+<div class="correcto"></div>
+<div class="incorrecto"></div>
+
+    <script src="./ejercicio.js"></script>
+    
+</body>
+</html>

@@ -1,0 +1,1 @@
+console.log("bulma es un emboles")

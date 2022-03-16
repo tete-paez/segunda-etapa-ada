@@ -1,0 +1,28 @@
+/* .ejercicio {
+    width: 700px;
+    height: 70px;
+} */
+
+ /* para la clase 5/11 con pilar eventos formulario */
+.miCajaConInformacion {
+    background-color: deeppink;
+    border-radius: 10px;
+    padding: 10px;
+    display: none;
+}
+.correcto {
+    background-color: forestgreen;
+    display: none;
+}
+.incorrecto {
+    background-color: red;
+    display: none;
+}
+* {
+    font-family: 'Josefin Sans', sans-serif;
+    margin: 2%;
+    padding: 0;
+    background-color: rgb(251, 209, 255);
+    font-size: large;
+    color: rgb(0, 0, 0);
+}
